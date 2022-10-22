@@ -16,9 +16,19 @@ header {
 }
 h2 {
   background-color: cornflowerblue;
-  color: blue;
+  color: #042c4b;
 
   font-size: 50px;
+}
+img {
+  border-radius: 120px 120px;
+  object-fit: cover;
+}
+h3 {
+  background-color: cornflowerblue;
+  color: #042c4b;
+
+  font-size: 40px;
 }
 /* <!-- Requirements:
 - Place the existing `<h1>` and `<p>` inside of a `header` element and add a background-color to that header.
